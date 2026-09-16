@@ -12,6 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=AynanshAadyant&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AynanshAadyant&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+# Currently Working On : 
+ - EcoTransit [Private] — Real-time IoT & AI-driven public transit tracking system powered by ESP32, PostGIS, and low-latency WebSocket/MQTT streams.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ - Job-Notifier Bot — The market moves fast, but this bot moves faster: an autonomous scraping engine that hunts fresh tech openings and broadcasts them directly to Telegram before the crowd arrives.
